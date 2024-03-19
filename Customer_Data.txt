@@ -1,0 +1,6 @@
+*****************
+*   Cashiers   *
+*****************
+Cashier 1: X X 
+Cashier 2: X X X 
+Cashier 3: X X X X X 
